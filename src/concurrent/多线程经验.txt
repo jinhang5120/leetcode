@@ -1,0 +1,4 @@
+所有的多线程题目，都可以用信号量Semaphore
+Semaphore o = new Semaphore(0);表示剩余可获得的信号量
+o.acquire(i) 获取i个信号量
+o.release(i) 释放i个信号量
