@@ -22,80 +22,54 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f334c55-58a3-4993-9cd9-44221920b427" name="Default Changelist" comment="0107.2">
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/dfs/DFS经验.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/dfs/Employee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/dfs/FloodFill.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/dfs/GetImportance.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/dfs/RangeSumBST.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/greedy/LargestSumAfterKNegations.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/greedy/LastStoneWeight.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/greedy/MaxProfit.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/greedy/MaximumUnits.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/greedy/MinDeletionSize.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/greedy/MinSubsequence.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/greedy/NumWaterBottles.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/greedy/TotalMoney.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/greedy/经验.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/hash/BestLine.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/hash/CanFormArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/hash/CanPermutePalindrome.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/hash/CommonChars.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/hash/FindRepeatNumber.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/hash/FirstUniqChar.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/hash/GroupAnagrams.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/hash/HindLHS.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/hash/LeastBricks.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/hash/LongestWord.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/hash/经验.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/tree/IsCousins.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/tree/IsSymmetric.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/tree/IsUnivalTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/tree/KthLargest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/tree/ListNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/tree/ListOfDepth.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/tree/LowestCommonAncestor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/tree/SortedArrayToBST.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/tree/SumRootToLeaf.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/tree/tree经验.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DFS/DFS经验.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DFS/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DFS/FloodFill.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DFS/GetImportance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DFS/RangeSumBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/greedy/LargestSumAfterKNegations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/greedy/LastStoneWeight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/greedy/MaxProfit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/greedy/MaximumUnits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/greedy/MinDeletionSize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/greedy/MinSubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/greedy/NumWaterBottles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/greedy/TotalMoney.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/greedy/经验.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hash/BestLine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hash/CanFormArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hash/CanPermutePalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hash/CommonChars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hash/FindRepeatNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hash/FirstUniqChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hash/GroupAnagrams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hash/HindLHS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hash/LeastBricks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hash/LongestWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hash/经验.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tree/IsCousins.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tree/IsSymmetric.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tree/IsUnivalTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tree/KthLargest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tree/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tree/ListOfDepth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tree/LowestCommonAncestor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tree/SortedArrayToBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tree/SumRootToLeaf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tree/tree经验.txt" afterDir="false" />
+    <list default="true" id="1f334c55-58a3-4993-9cd9-44221920b427" name="Default Changelist" comment="0112.1">
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/binarySearch/FindString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/binarySearch/MinArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/binarySearch/MissingNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/binarySearch/经验.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/doublePointer/CharacterReplacement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/doublePointer/CountPairs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/doublePointer/KthToLast.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/doublePointer/ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/doublePointer/LongestOnes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/doublePointer/Merge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/doublePointer/Partition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/doublePointer/SampleStats.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/doublePointer/ThreeSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/doublePointer/经验.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/greedy/FindMinArrowShots.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/greedy/MinCost.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/sort/AllCellsDistOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/sort/Average.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/sort/CanMakeArithmeticProgression.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/sort/FrequencySort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/sort/LargestPerimeter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/sort/RestoreString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/binarySearch/FindString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/binarySearch/MinArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/binarySearch/MissingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/binarySearch/经验.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/doublePointer/CharacterReplacement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/doublePointer/CountPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/doublePointer/KthToLast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/doublePointer/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/doublePointer/LongestOnes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/doublePointer/Merge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/doublePointer/Partition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/doublePointer/SampleStats.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/doublePointer/ThreeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/doublePointer/经验.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/greedy/FindMinArrowShots.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/greedy/MinCost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sort/AllCellsDistOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sort/Average.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sort/CanMakeArithmeticProgression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sort/FrequencySort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sort/LargestPerimeter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sort/RestoreString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/dynamicPlan/动态规划经验.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/dynamicPlan/动态规划经验.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dynamicPlan/动态规划经验.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/dynamicPlan/动态规划经验.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/greedy/MaximumUnits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/greedy/MaximumUnits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/greedy/MaximumUnits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/greedy/MaximumUnits.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,16 +117,16 @@
     <property name="project.structure.last.edited" value="SDK Location" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Application.MaximumUnits">
-    <configuration name="BestLine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hash.BestLine" />
+  <component name="RunManager" selected="Application.FrequencySort">
+    <configuration name="AllCellsDistOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sort.AllCellsDistOrder" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hash.*" />
+          <option name="PATTERN" value="sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,12 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LargestSumAfterKNegations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="greedy.LargestSumAfterKNegations" />
+    <configuration name="CountPairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="doublePointer.CountPairs" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="greedy.*" />
+          <option name="PATTERN" value="doublePointer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -173,12 +147,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hash.LongestWord" />
+    <configuration name="FrequencySort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sort.FrequencySort" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hash.*" />
+          <option name="PATTERN" value="sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -186,12 +160,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxProfit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="greedy.MaxProfit" />
+    <configuration name="SampleStats" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="doublePointer.SampleStats" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="greedy.*" />
+          <option name="PATTERN" value="doublePointer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -199,12 +173,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaximumUnits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="greedy.MaximumUnits" />
+    <configuration name="ThreeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="doublePointer.ThreeSum" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="greedy.*" />
+          <option name="PATTERN" value="doublePointer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -227,11 +201,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MaximumUnits" />
-        <item itemvalue="Application.LargestSumAfterKNegations" />
-        <item itemvalue="Application.MaxProfit" />
-        <item itemvalue="Application.BestLine" />
-        <item itemvalue="Application.LongestWord" />
+        <item itemvalue="Application.FrequencySort" />
+        <item itemvalue="Application.AllCellsDistOrder" />
+        <item itemvalue="Application.CountPairs" />
+        <item itemvalue="Application.SampleStats" />
+        <item itemvalue="Application.ThreeSum" />
       </list>
     </recent_temporary>
   </component>
@@ -246,7 +220,7 @@
       <workItem from="1610008782049" duration="207000" />
       <workItem from="1610009349115" duration="4516000" />
       <workItem from="1610071941692" duration="14024000" />
-      <workItem from="1610327886245" duration="19612000" />
+      <workItem from="1610327886245" duration="43348000" />
     </task>
     <task id="LOCAL-00001" summary="0107.1">
       <created>1610008958144</created>
@@ -262,7 +236,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610015974350</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="0112.1">
+      <created>1610420210862</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1610420210862</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -284,7 +265,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="0107.1" />
     <MESSAGE value="0107.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="0107.2" />
+    <MESSAGE value="0112.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="0112.1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="530" y="162" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610008903622">
@@ -295,46 +277,50 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="698" y="185" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610008864707" />
-    <state width="1655" height="305" key="GridCell.Tab.0.bottom" timestamp="1610419763330">
+    <state width="1360" height="309" key="GridCell.Tab.0.bottom" timestamp="1610613434638">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1655" height="305" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610419763330" />
-    <state width="1655" height="305" key="GridCell.Tab.0.center" timestamp="1610419763330">
+    <state width="1360" height="309" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610613434638" />
+    <state width="1360" height="309" key="GridCell.Tab.0.center" timestamp="1610613434638">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1655" height="305" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610419763330" />
-    <state width="1655" height="305" key="GridCell.Tab.0.left" timestamp="1610419763330">
+    <state width="1360" height="309" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610613434638" />
+    <state width="1360" height="309" key="GridCell.Tab.0.left" timestamp="1610613434637">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1655" height="305" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610419763330" />
-    <state width="1655" height="305" key="GridCell.Tab.0.right" timestamp="1610419763330">
+    <state width="1360" height="309" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610613434637" />
+    <state width="1360" height="309" key="GridCell.Tab.0.right" timestamp="1610613434638">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1655" height="305" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610419763330" />
-    <state width="1655" height="388" key="GridCell.Tab.1.bottom" timestamp="1610419107255">
+    <state width="1360" height="309" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610613434638" />
+    <state width="1360" height="309" key="GridCell.Tab.1.bottom" timestamp="1610613435599">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1655" height="388" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610419107255" />
-    <state width="1655" height="388" key="GridCell.Tab.1.center" timestamp="1610419107255">
+    <state width="1360" height="309" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610613435599" />
+    <state width="1360" height="309" key="GridCell.Tab.1.center" timestamp="1610613435598">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1655" height="388" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610419107255" />
-    <state width="1655" height="388" key="GridCell.Tab.1.left" timestamp="1610419107254">
+    <state width="1360" height="309" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610613435598" />
+    <state width="1360" height="309" key="GridCell.Tab.1.left" timestamp="1610613435598">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1655" height="388" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610419107254" />
-    <state width="1655" height="388" key="GridCell.Tab.1.right" timestamp="1610419107255">
+    <state width="1360" height="309" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610613435598" />
+    <state width="1360" height="309" key="GridCell.Tab.1.right" timestamp="1610613435598">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1655" height="388" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610419107255" />
-    <state x="668" y="228" key="Vcs.Push.Dialog.v2" timestamp="1610015977613">
+    <state width="1360" height="309" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610613435598" />
+    <state x="553" y="218" key="SettingsEditor" timestamp="1610615871039">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="668" y="228" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1610015977613" />
-    <state x="594" y="223" width="672" height="678" key="search.everywhere.popup" timestamp="1610327979256">
+    <state x="553" y="218" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1610615871039" />
+    <state x="668" y="228" key="Vcs.Push.Dialog.v2" timestamp="1610420213882">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="594" y="223" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1610327979256" />
+    <state x="668" y="228" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1610420213882" />
+    <state x="594" y="223" width="672" height="678" key="search.everywhere.popup" timestamp="1610518637983">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="594" y="223" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1610518637983" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -386,15 +372,55 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/greedy/MaximumUnits.java</url>
-          <line>24</line>
+          <line>26</line>
           <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/greedy/MaximumUnits.java</url>
-          <line>11</line>
+          <line>13</line>
           <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/greedy/MinCost.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/greedy/FindMinArrowShots.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/doublePointer/CharacterReplacement.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/doublePointer/CountPairs.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sort/AllCellsDistOrder.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sort/FrequencySort.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sort/FrequencySort.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="45" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/leetcode$CharacterReplacement.ic" NAME="CharacterReplacement Coverage Results" MODIFIED="1610589089482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>doublePointer.*</FILTER>
+    </SUITE>
   </component>
 </project>
