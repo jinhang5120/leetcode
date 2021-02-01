@@ -1,0 +1,82 @@
+package union;
+
+import java.util.HashMap;
+import java.util.Map;
+import java.util.PriorityQueue;
+/*1722. 执行交换操作后的最小汉明距离
+给你两个整数数组 source 和 target ，长度都是 n 。还有一个数组 allowedSwaps ，其中每个 allowedSwaps[i] = [ai, bi] 表示你可以交换数组 source 中下标为 ai 和 bi（下标从 0 开始）的两个元素。注意，你可以按 任意 顺序 多次 交换一对特定下标指向的元素。
+
+相同长度的两个数组 source 和 target 间的 汉明距离 是元素不同的下标数量。形式上，其值等于满足 source[i] != target[i] （下标从 0 开始）的下标 i（0 <= i <= n-1）的数量。
+
+在对数组 source 执行 任意 数量的交换操作后，返回 source 和 target 间的 最小汉明距离 。
+
+
+示例 1：
+
+输入：source = [1,2,3,4], target = [2,1,4,5], allowedSwaps = [[0,1],[2,3]]
+输出：1
+解释：source 可以按下述方式转换：
+- 交换下标 0 和 1 指向的元素：source = [2,1,3,4]
+- 交换下标 2 和 3 指向的元素：source = [2,1,4,3]
+source 和 target 间的汉明距离是 1 ，二者有 1 处元素不同，在下标 3 。*/
+public class minimumHammingDistance {
+    public int minimumHammingDistance(int[] source, int[] target, int[][] allowedSwaps) {//测试通过
+        int[] arr = new int[source.length];
+        for(int i=1;i<arr.length;i++){
+            arr[i] = i;
+        }
+        for(int[] ints:allowedSwaps){
+            int i0 = ints[0];
+            int i1 = ints[1];
+            int count0 = 0;
+            while(arr[i0]!=i0){
+                i0 = arr[i0];
+                count0++;
+            }
+            int count1 = 0;
+            while(arr[i1]!=i1){
+                i1 = arr[i1];
+                count1++;
+            }
+            if(i0!=i1){
+                if(count0<count1){
+                    arr[i0] = i1;
+                }else{
+                    arr[i1] = i0;
+                }
+            }
+        }
+        Map<Integer, PriorityQueue<Integer>> map1 = new HashMap<>();
+        Map<Integer,PriorityQueue<Integer>> map2 = new HashMap<>();
+        for(int i=0;i<arr.length;i++){
+            int root = i;
+            while(arr[root]!=root){
+                root = arr[root];
+            }
+            if(!map1.containsKey(root)){
+                map1.put(root,new PriorityQueue<>());
+                map2.put(root,new PriorityQueue<>());
+            }
+            map1.get(root).offer(source[i]);
+            map2.get(root).offer(target[i]);
+        }
+        int count = 0;
+        for(int key:map1.keySet()){
+            PriorityQueue<Integer> queue1 = map1.get(key);
+            PriorityQueue<Integer> queue2 = map2.get(key);
+            while(!queue1.isEmpty()&&!queue2.isEmpty()){
+                int tmp = queue1.peek()-queue2.peek();
+                if(tmp==0){
+                    count++;
+                    queue1.poll();
+                    queue2.poll();
+                }else if(tmp>0){
+                    queue2.poll();
+                }else{
+                    queue1.poll();
+                }
+            }
+        }
+        return source.length-count;
+    }
+}
